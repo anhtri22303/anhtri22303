@@ -89,16 +89,16 @@ Hi! I'm a passionate software developer with a keen interest in building scalabl
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | **[UniClub](https://uniclub.id.vn)** | [Link Github](https://github.com/anhtri22303/uni-club.git) | NextJS, TypeScript, Java SpringBoot, PostgreSQL |
-| **[UniClub](https://uniclub.id.vn)** | [Link APK](https://drive.google.com/drive/folders/1Eqxmw6imtauExvbSGQEp5-n1pZbDe9oH?usp=sharing) | Expo, TypeScript, Java SpringBoot, PostgreSQL|
-| **[GlowCorner](https://github.com/anhtri22303/frontend)** | Brief description of what this project does | NextJS, Java SpringBoot, MongoDB |
-| **[Billiard Club](https://github.com/PhuocHuynh63/fe_web_ball_pooling.git)** | Brief description of what this project does | ReactJS, NestJS, NodeJS, MongoDB |
+| **[UniClub Mobile](https://uniclub.id.vn)** | [Link APK](https://drive.google.com/drive/folders/1Eqxmw6imtauExvbSGQEp5-n1pZbDe9oH?usp=sharing) | Expo, TypeScript, Java SpringBoot, PostgreSQL|
+| **[GlowCorner](https://github.com/anhtri22303/frontend)** | [Link Github](https://github.com/anhtri22303/frontend) | NextJS, Java SpringBoot, MongoDB |
+| **[Billiard Club](https://github.com/PhuocHuynh63/fe_web_ball_pooling.git)** | [Link Github](https://github.com/PhuocHuynh63/fe_web_ball_pooling.git) | ReactJS, NestJS, NodeJS, MongoDB |
 
 ---
 
 ## 🎓 Learning & Development
 
-- 📚 Currently exploring **[Technology/Framework]**
-- 🎯 Goal: **[Your development goal]**
+- 📚 Currently exploring: Full-stack development with a focus on clean code.
+- 🎯 Goal: To become a professional Software Engineer and deliver high-quality software solutions.
 - 🔄 Always working on improving code quality and efficiency
 
 ---

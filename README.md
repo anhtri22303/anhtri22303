@@ -73,11 +73,9 @@ Hi! I'm a passionate software developer with a keen interest in building scalabl
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  ![anhtri22303's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhtri22303&show_icons=true&theme=tokyonight&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhtri22303&theme=tokyonight&layout=compact)
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=anhtri22303&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtri22303&theme=tokyonight&layout=compact" alt="Top Langs" />
 </div>
 
 ---

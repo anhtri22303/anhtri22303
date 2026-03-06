@@ -1,27 +1,10 @@
 <h1 align="center">👋 Hi there, I'm Anh Tri</h1>
-<p align="center">
-  <a href="https://github.com/anhtri22303">
-    <img src="https://img.shields.io/github/followers/anhtri22303?label=GitHub&style=social" alt="GitHub followers">
-  </a>
-</p>
 
 <div align="center">
   
   💻 FrontEnd Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver
   
 </div>
-
----
-
-## 🙋 About Me
-
-Hi! I'm a passionate software developer with a keen interest in building scalable and efficient applications. I love exploring new technologies and continuously improving my skills through real-world projects.
-
-- 🔭 I'm currently working on **innovative projects that solve real problems**
-- 🌱 I'm actively learning **modern web technologies and best practices**
-- 💡 I'm passionate about **clean code, software architecture, and user experience**
-- 🤝 I'm open to collaborating on **open-source projects and exciting ventures**
-- 📫 How to reach me: **[anhtri22303@gmail.com](mailto:anhtri22303@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/anhtri)**
 
 ---
 

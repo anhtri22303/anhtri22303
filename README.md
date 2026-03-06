@@ -66,7 +66,17 @@
 | **[Billiard Club](https://github.com/PhuocHuynh63/fe_web_ball_pooling.git)** | [Link Github](https://github.com/PhuocHuynh63/fe_web_ball_pooling.git) | ReactJS, NestJS, NodeJS, MongoDB |
 
 ---
+## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=anhtri22303&show_icons=true&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=anhtri22303&theme=radical)
+
+## ✍ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 ## 🎓 Learning & Development
 
 - 📚 Currently exploring: Full-stack development with a focus on clean code.

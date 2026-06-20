@@ -2,11 +2,21 @@
 
 <div align="center">
   
-  💻 FrontEnd Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver
+  💻 Frontend Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver
   
 </div>
 
 ---
+
+<div align="center">
+
+[Website](https://anhtri-portfolio.vercel.app) • 
+[Facebook](https://www.facebook.com/TriCNA.Coder) • 
+[CV](https://drive.google.com/file/d/1RR3vy3t3vGFEG9n_OZQ3_BrWVvGTLrpy/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/anhtri) • 
+[Email](mailto:anhtri22303@gmail.com) • 
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -87,19 +97,6 @@
 - 📚 Currently exploring: Full-stack development with a focus on clean code.
 - 🎯 Goal: To become a professional Software Engineer and deliver high-quality software solutions.
 - 🔄 Always working on improving code quality and efficiency
-
----
-
-## 💬 Let's Connect
-
-<div align="center">
-
-[Website](https://anhtri-portfolio.vercel.app) • 
-[LinkedIn](https://www.linkedin.com/in/anhtri) • 
-[Facebook](https://www.facebook.com/TriCNA.Coder) • 
-[Email](mailto:anhtri22303@gmail.com)
-
-</div>
 
 ---
 

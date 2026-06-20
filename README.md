@@ -10,9 +10,9 @@
 
 [Website](https://anhtri-portfolio.vercel.app) • 
 [Facebook](https://www.facebook.com/TriCNA.Coder) • 
-[CV](https://drive.google.com/file/d/1RR3vy3t3vGFEG9n_OZQ3_BrWVvGTLrpy/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1RR3vy3t3vGFEG9n_OZQ3_BrWVvGTLrpy/view?usp=sharing) • 
 [LinkedIn](https://www.linkedin.com/in/anhtri) • 
-[Email](mailto:anhtri22303@gmail.com) • 
+[Email](mailto:anhtri22303@gmail.com)
 
 </div>
 

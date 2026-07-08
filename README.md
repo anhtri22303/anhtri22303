@@ -66,13 +66,10 @@
 
 ## 🚀 Recent Projects
 
-<!-- Update these with your actual projects -->
-
 | Project | Description | Tech Stack |
-|---------|-------------|-----------|
-
+| :--- | :--- | :--- |
 | **[UniClub](https://uniclub.id.vn)** | [Link Github](https://github.com/anhtri22303/uni-club.git) | NextJS, TypeScript, Java SpringBoot, PostgreSQL |
-| **[UniClub Mobile](https://uniclub.id.vn)** | [Link APK](https://drive.google.com/drive/folders/1Eqxmw6imtauExvbSGQEp5-n1pZbDe9oH?usp=sharing) | Expo, TypeScript, Java SpringBoot, PostgreSQL|
+| **[UniClub Mobile](https://uniclub.id.vn)** | [Link APK](https://drive.google.com/drive/folders/1Eqxmw6imtauExvbSGQEp5-n1pZbDe9oH?usp=sharing) | Expo, TypeScript, Java SpringBoot, PostgreSQL |
 | **[GlowCorner](https://glowcorner.vercel.app)** | [Link Github](https://github.com/anhtri22303/GlowCorner) | NextJS, Java SpringBoot, MongoDB |
 | **[Bily Store](https://bily-store.vercel.app)** | [Link Github](https://github.com/anhtri22303/bily-store-web.git) | NextJS, TypeScript, API Routes, Supabase, Upstash Redis, Groq SDK, React Hook Form + Zod |
 | **[chaTchiT](https://chatchit-mess.vercel.app)** | [Link Github](https://github.com/anhtri22303/v0-chat-with-supabase.git) | NextJS, TypeScript, API Routes, Supabase, WebRTC, EmailJS |
